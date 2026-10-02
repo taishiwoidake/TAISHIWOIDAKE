@@ -12,6 +12,7 @@ A frozen technical preprint and reproducibility package studying finite stabiliz
 
 - Repository: [qtrac-stopping-trees](https://github.com/taishiwoidake/qtrac-stopping-trees)
 - Technical-v1 PDF: [preprint_v1.pdf](https://github.com/taishiwoidake/qtrac-stopping-trees/blob/main/paper/preprint_v1.pdf)
+- Zenodo DOI: [10.5281/zenodo.23095061](https://doi.org/10.5281/zenodo.23095061)
 - Verification: `python verify.py`
 - Reproducibility: exact finite certificates, SHA-256-locked artifacts, and byte-for-byte PDF rebuild checks
 
