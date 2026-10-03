@@ -8,6 +8,8 @@ I work on structural and complexity questions in finite-state computation, stoch
 
 ### Nested Regular Covers and Stopping Trees
 
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23095061.svg)](https://doi.org/10.5281/zenodo.23095061) [![Verify publication snapshot](https://github.com/taishiwoidake/qtrac-stopping-trees/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/taishiwoidake/qtrac-stopping-trees/actions/workflows/verify.yml) [![Reproducible PDF](https://github.com/taishiwoidake/qtrac-stopping-trees/actions/workflows/build-paper.yml/badge.svg?branch=main)](https://github.com/taishiwoidake/qtrac-stopping-trees/actions/workflows/build-paper.yml)
+
 A frozen technical preprint and reproducibility package studying finite stabilization, sharp state-count thresholds, an exact integer/real integrality gap, and stopping-tree realizations.
 
 - Repository: [qtrac-stopping-trees](https://github.com/taishiwoidake/qtrac-stopping-trees)
